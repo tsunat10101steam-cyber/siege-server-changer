@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/SiegeServerChanger.Core/SiegeServerChanger.Core.csproj" />
+    <Project Path="src/SiegeServerChanger.App/SiegeServerChanger.App.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/SiegeServerChanger.Tests/SiegeServerChanger.Tests.csproj" />
+  </Folder>
+</Solution>
